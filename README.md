@@ -2,7 +2,7 @@
 
 ## Donwload
 
-Download zip file from GitHub
+Download zip file from GitHub, then place it in `~/.config` directory.
 
 ## NixOS
 
